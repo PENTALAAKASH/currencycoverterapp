@@ -38,8 +38,8 @@ To develop a responsive and user-friendly web application that performs currency
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/2d9fcf14-d26a-4bb8-bd3e-b8a9643b478e)
 ![image](https://github.com/user-attachments/assets/25e65db3-fff4-41fe-aa44-80153946b9ca)
+![image](https://github.com/user-attachments/assets/2d9fcf14-d26a-4bb8-bd3e-b8a9643b478e)
 
 ---
 
@@ -56,7 +56,7 @@ To develop a responsive and user-friendly web application that performs currency
 
 ## 🔗 Live Demo
 
-> 🔗 [[Add your GitHub Pages or Netlify link here if deployed](https://github.com/PENTALAAKASH/currencycoverterapp)]
+> 🔗 [[DEMO](http://127.0.0.1:5500/about.html)]
 
 ---
 
