@@ -1,0 +1,47 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: url('https://images.unsplash.com/photo-1561414927-6d86591d0c4f') no-repeat center center/cover;
+  margin: 0;
+  color: white;
+}
+header, footer {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(56, 55, 55, 0.7);
+}
+nav a {
+  margin: 0 15px;
+  padding: 10px 20px;
+  color: white;
+  background-color: rgba(51, 40, 167, 0.7);
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+nav a:hover {
+  background-color: rgba(40, 167, 69, 1);
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.converter-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+input, select, button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+button {
+  background-color: #15df58;
+  color: rgb(10, 10, 11);
+  border: none;
+  cursor: pointer;
+}

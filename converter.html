@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Convert | Currency Converter</title>
+  <link rel="stylesheet" href="style-converter.css" />
+</head>
+<body>
+  <header>
+    <h1>Currency Converter</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="converter.html">Converter</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+  <main>
+    <div class="converter-box">
+      <input type="number" id="amount" placeholder="Enter amount" />
+      <div class="dropdowns">
+        <select id="fromCurrency"></select>
+        <span>→</span>
+        <select id="toCurrency"></select>
+      </div>
+      <button onclick="convertCurrency()">Convert</button>
+      <p id="result"></p>
+    </div>
+  </main>
+  <footer>
+    <p>© 2025 Currency Converter App</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
