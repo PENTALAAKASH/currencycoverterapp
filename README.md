@@ -38,6 +38,7 @@ To develop a responsive and user-friendly web application that performs currency
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/c9621e0a-8358-4115-9823-2f1a456a58d9)
 ![image](https://github.com/user-attachments/assets/25e65db3-fff4-41fe-aa44-80153946b9ca)
 ![image](https://github.com/user-attachments/assets/2d9fcf14-d26a-4bb8-bd3e-b8a9643b478e)
 
